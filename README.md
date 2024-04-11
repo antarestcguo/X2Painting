@@ -1,6 +1,6 @@
 # X2Painting
 ## Character <--- Zoom out⭐️⭐⭐⭐⭐Zoom in ---> Painting
-![introduction](docs/resources/X2Painting/pics/xword_intro.png)
+![introduction](xword_intro.png "intro")
 
 This is the implementation of the X2Painting.
 
