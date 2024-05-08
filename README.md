@@ -1,8 +1,9 @@
 # X2Painting
-Given a character input, such as “赵” or “Z”, the model output a image in the 1024x1024 resolution.
-**Zoom out** the image, it contain the shape of the character.
+Given a character or a word input, such as “赵”,“Z”,”一夜暴富” and ”Accept”, the model output a image in the 1024x1024 resolution.
+**Zoom out** the image, it contain the shape of the character or word.
 **Zoom in** the image, it is a painting
 ![Abstract](resources/xword_intro.png "intro")
+![Abstract](resources/x2painting_intro.png "intro2")
 ## Introduction
 
 Artistic typography has been widely discussed in many academic papers. Existing methods preserving the outlines of text and then utilizing text prompt to control the  diffusion models to render artistic fonts. Although the resulting text possesses aesthetic appeal and blends well with the background, the text outline does not merge seamlessly  to form a cohesive painting; it remains recognizable as artistic typography rather than a complete artwork.
